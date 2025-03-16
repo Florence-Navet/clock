@@ -2,7 +2,7 @@
 
 **Projet de groupe à quatre**
   
-  
+
 ![Aperçu de l'horloge](readme.png)
 
 
@@ -40,8 +40,6 @@ Ce projet est une horloge interactive avec une fonctionnalité d'alarme. Il perm
 ## Utilisation
 Lancez le programme et suivez les instructions affichées. Vous pouvez entrer différentes commandes pour interagir avec l'horloge et l'alarme.
 
-## Aperçu
-![Aperçu de l'horloge](image_apercu.png)
 
 ## Crédits
 Projet réalisé par :
