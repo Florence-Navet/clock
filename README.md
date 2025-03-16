@@ -1,6 +1,9 @@
 # clock
 
 **Projet de groupe à quatre**
+![Aperçu de l'horloge](readme.png)
+
+
 +++
 # Projet Horloge et Alarme
 
