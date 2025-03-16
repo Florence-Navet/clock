@@ -4,7 +4,7 @@
 ![Aperçu de l'horloge](readme.png)
 
 
-+++
+***
 # Projet Horloge et Alarme
 
 ## Description
